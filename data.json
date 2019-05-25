@@ -1,0 +1,50 @@
+[
+    {
+        "input": "power",
+        "output": "hardware"
+    },
+    {
+        "input": "supply",
+        "output": "hardware"
+    },
+    {
+        "input": "code",
+        "output": "software"
+    },
+    {
+        "input": "bug",
+        "output": "software"
+    },
+    {
+        "input": "watt",
+        "output": "hardware"
+    },
+    {
+        "input": "javascript",
+        "output": "software"
+    },
+    {
+        "input": "voltage",
+        "output": "hardware"
+    },
+    {
+        "input": "current",
+        "output": "hardware"
+    },
+    {
+        "input": "W",
+        "output": "hardware"
+    },
+    {
+        "input": "code base",
+        "output": "software"
+    },
+    {
+        "input": "10W supply",
+        "output": "hardware"
+    },
+    {
+        "input": "code have bug",
+        "output": "software"
+    }
+]
